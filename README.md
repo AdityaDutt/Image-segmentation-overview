@@ -2,4 +2,4 @@
 
 Demonstration of a few useful segmentation algorithms.
 
-<img align="left" alt="ex_one" width = "1000px" src="./segmentation-result.png" />
+<img align="center" alt="ex_one" width = "800px" src="./segmentation-result.png" />
